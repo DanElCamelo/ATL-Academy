@@ -1,0 +1,102 @@
+{
+  "preguntas": [
+
+{
+  "category": "Cultura",
+  "question": "¿En que decada nacio el Jazz?",
+  "options": ["1690", "1750", "1890"],
+  "answer": 2,
+  "explanation": "El jazz nació a fines del siglo XIX y principios del siglo XX. Fue desarrollado principalmente por músicos afroamericanos en los Estados Unidos. Si bien es difícil determinar una fecha exacta para el nacimiento del jazz, se considera que se originó alrededor de la década de 1890."
+},
+
+{
+  "category": "Cultura",
+  "question": "¿Cuál es el autor de la famosa obra Don Quijote de la Mancha?",
+  "options": ["Miguel de Cervantes Saavedra", "William Shakespeare", "Mona Lisa"],
+  "answer": 0,
+  "explanation": "El autor de la famosa obra Don Quijote de la Mancha es Miguel de Cervantes Saavedra. Publicada por primera vez en 1605, esta novela es considerada una de las obras más destacadas de la literatura universal y una de las obras más importantes de la literatura en lengua española."
+},
+
+{
+  "category": "Deportes",
+  "question": "¿Cuál es el país de origen del futbolista Lionel Messi?",
+  "options": ["España", "Argentina", "Brasil"],
+  "answer": 1,
+  "explanation": "El futbolista Lionel Messi es originario de Argentina. Nació el 24 de junio de 1987 en la ciudad de Rosario, provincia de Santa Fe, Argentina."
+},
+
+{
+  "category": "Deportes",
+  "question": "¿Quién es el mejor jugador de la NBA en todos los tiempos",
+  "options": ["Michael Jordan", "LeBron James", "Magic Johnson"],
+  "answer": 0,
+  "explanation": "Michael Jordan es ampliamente considerado como uno de los mejores jugadores de todos los tiempos. Ganó seis campeonatos de la NBA con los Chicago Bulls y fue conocido por su dominio en ambos lados de la cancha, así como por su competitividad y habilidades sobresalientes."
+},
+
+{
+  "category": "Arte",
+  "question": "¿Cuál es el nombre de la pintura más famosa de Leonardo da Vinci?",
+  "options": ["La Última Cena", "La dama del armiño", "Mona Lisa"],
+  "answer": 2,
+  "explanation": "Una de las razones más populares del atractivo mundial de la Mona Lisa es su sonrisa. Da Vinci usó la ilusión óptica para crear una sonrisa única a través del trabajo de perspectiva y sombras. Da Vinci pintó la Mona Lisa de tal manera que los ojos de la Mona Lisa caen directamente en el foco del espectador, mientras que los labios caen justo debajo de la periferia de la visión."
+},
+
+{
+  "category": "Arte",
+  "question": "¿Quién diseño la Torre Eiffel?",
+  "options": ["Sylvester Stallone y Arnold Schwarzenegger", "Gustave Eiffel, Maurice Koechlin y Émile Nouguier", "Michael Jackson y Beyoncé"],
+  "answer": 1,
+  "explanation": "La Torre Eiffel fue diseñada por el ingeniero francés Gustave Eiffel, junto con los ingenieros Maurice Koechlin y Émile Nouguier. La construcción de la torre comenzó en 1887 y se completó en 1889. Fue construida como una estructura temporal para la Exposición Universal de París de 1889, pero debido a su popularidad y utilidad como antena de comunicaciones, se decidió conservarla y se convirtió en un símbolo icónico de París y de Francia en general."
+},
+
+{
+  "category": "Cine",
+  "question": "¿Quién es el principal director de Terminator?",
+  "options": ["Arnold Schwarzenegger", "Alan Taylor", "James Cameron"],
+  "answer": 2,
+  "explanation": "El principal director de la franquicia Terminator es James Cameron. Cameron dirigió las dos primeras películas de la serie: The Terminator (1984) y Terminator 2: Judgment Day (1991). Estas películas son ampliamente consideradas como las más destacadas de la franquicia y han dejado una huella significativa en la cultura popular. James Cameron también escribió el guion de The Terminator y fue productor ejecutivo de las siguientes entregas, aunque otros directores han dirigido las secuelas y películas posteriores de la serie."
+},
+
+{
+  "category": "Cine",
+  "question": "¿Quién protagonizo Back To The Future?",
+  "options": ["Michael J. White", "Michael J. Fox", "Bruce Lee"],
+  "answer": 1,
+  "explanation": "La trilogía de películas Back to the Future tuvo como protagonista principal al actor Michael J. Fox. Interpretó el papel de Marty McFly, un joven estudiante de secundaria que viaja en el tiempo junto con el científico Doc Brown, interpretado por Christopher Lloyd. Michael J. Fox se convirtió en una figura icónica por su interpretación de Marty McFly, y su actuación contribuyó en gran medida al éxito y popularidad de la serie de películas."
+},
+
+{
+  "category": "Historia",
+  "question": "¿Dónde está el mayor campo de concentración?",
+  "options": ["Germany", "Argentina", "Polonia"],
+  "answer": 2,
+  "explanation": "El mayor campo de concentración establecido durante la Segunda Guerra Mundial fue Auschwitz-Birkenau, ubicado en la actual Polonia. Auschwitz-Birkenau fue parte del sistema de campos de concentración y exterminio establecido por el régimen nazi en Europa. Es tristemente conocido por ser el lugar donde se llevaron a cabo numerosos asesinatos en masa y atrocidades durante el Holocausto."
+},
+
+{
+  "category": "Historia",
+  "question": "¿En qué año el hombre pisó la Luna por primera vez?",
+  "options": ["1970", "1950", "1969"],
+  "answer": 2,
+  "explanation": "La nave Apolo 11 llegó a la Luna en el año 1969, siendo ese año cuando Neil Armstrong dió “un pequeño paso para el hombre, un gran paso para la humanidad."
+},
+
+{
+  "category": "Ciencia",
+  "question": "¿Quién es ampliamente reconocido por su contribución al entendimiento de la electricidad?",
+  "options": ["Alessandro Volta", "Benjamin Franklin", "Michael Faraday"],
+  "answer": 1,
+  "explanation": "La electricidad no fue descubierta por una única persona, sino que su estudio y comprensión se desarrolló a lo largo de muchos siglos. Sin embargo, Benjamin Franklin es ampliamente reconocido por su contribución al entendimiento de la electricidad. En 1752, llevó a cabo su famoso experimento con una cometa durante una tormenta para demostrar la naturaleza eléctrica de los rayos. Este experimento ayudó a sentar las bases para el estudio de la electricidad y sus aplicaciones futuras. Es importante destacar que hubo otros científicos y descubridores que realizaron importantes contribuciones en el campo de la electricidad, como Alessandro Volta, Michael Faraday y Thomas Edison."
+},
+
+{
+  "category": "Ciencia",
+  "question": "¿Quién invento la imprenta?",
+  "options": ["Johannes Gutenberg", "Thomas Edison", "Mike Tayson"],
+  "answer": 0,
+  "explanation": "La imprenta fue inventada por Johannes Gutenberg. Gutenberg, un inventor alemán, desarrolló la imprenta de tipos móviles en Europa durante el siglo XV. Su innovación revolucionó la forma en que se producían los libros y facilitó la difusión de conocimientos y la propagación de la información en toda Europa. La primera gran obra impresa con la imprenta de Gutenberg fue la famosa Biblia de Gutenberg, completada alrededor del año 1455."
+}
+
+  ]
+
+}
